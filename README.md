@@ -4,7 +4,7 @@
 
 The COVID-19 pandemic has significantly impacted health systems and economies worldwide. This report analyzes a COVID-19 dataset to understand the distribution of confirmed cases, recoveries, and deaths across different states/union territories in India. The goal is to derive insights that can aid in better understanding the pandemic's effects.
 
-3. Exploratory Data Analysis (EDA) Insights
+2. Exploratory Data Analysis (EDA) Insights
 
 2.1 Boxplot for Confirmed Cases by State
 
